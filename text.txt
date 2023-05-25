@@ -4,3 +4,5 @@ uso el vscode para practicar y la terminal
 
 cree una nueva rama ->
 se llama modificaciones
+
+texto desde la terminal Git Gui(rama modificaciones)
