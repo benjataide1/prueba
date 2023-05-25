@@ -1,3 +1,5 @@
 esto es un comentario desde la rama pepe,estoy usando la terminal para ver que honda
 
 uso el vscode para practicar y la terminal
+
+cree una nueva rama
