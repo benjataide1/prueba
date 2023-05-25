@@ -2,4 +2,5 @@ esto es un comentario desde la rama pepe,estoy usando la terminal para ver que h
 
 uso el vscode para practicar y la terminal
 
-cree una nueva rama
+cree una nueva rama ->
+se llama modificaciones
