@@ -3,4 +3,10 @@ esto es un comentario desde la rama pepe,estoy usando la terminal para ver que h
 uso el vscode para practicar y la terminal
 
 cree una nueva rama ->
+<<<<<<< HEAD
 se llama modificaciones
+=======
+se llama modificaciones
+
+texto desde la terminal Git Gui(rama modificaciones)
+>>>>>>> c21fffd18ac2b2b09528d002f15d908b0acb6b2d
